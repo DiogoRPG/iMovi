@@ -63,7 +63,6 @@
 /* SLIDER */
 #slider {
   margin-top: 8em;
-  margin-top: 1em;
 }
 
 #slider .carousel-caption {
@@ -205,5 +204,31 @@
   }
   #featured-images .banner-content {
     opacity: 0;
+  }
+}
+
+/* INFORMATION */
+#info-content {
+  margin-bottom: 4em;
+  padding: 4em 1em;
+}
+
+#info-numbers {
+  margin: 1.5em 0;
+}
+
+#info-banner {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2.5em;
+}
+
+#info-numbers h3 {
+  font-size: 3em;
+}
+
+@media (min-width: 700px) {
+  #info-content {
+    padding: 3.5em;
   }
 }
