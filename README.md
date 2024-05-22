@@ -1,6 +1,5 @@
 ![Logo da Minha Empresa](./assets/prototypes/desktop_img1.png)
-![Logo da Minha Empresa](./assets/prototypes/desktop_img2.png)
-![Logo da Minha Empresa](./assets/prototypes/mobile_img.png)
+![Logo da Minha Empresa](./assets/prototypes/mobile.png)
 
 ## 🚨 About the project
 
