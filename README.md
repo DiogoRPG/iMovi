@@ -17,5 +17,5 @@ Clone this repository. To run you need node and npm globally on your machine.
 
 ```bash
 # Clone the project
-$ git clone https://github.com/DiogoRPG/rest-countries-react.git
+$ git clone https://github.com/DiogoRPG/iMovi.git
 ```
