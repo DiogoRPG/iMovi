@@ -1,6 +1,3 @@
-![Logo da Minha Empresa](./assets/prototypes/desktop_img1.png)
-![Logo da Minha Empresa](./assets/prototypes/mobile.png)
-
 ## 🚨 About the project
 
 This project presents a website for a fictitious company to put Bootstrap features into practice. It was developed using HTML, CSS, and Bootstrap, with a Mobile First architecture to be responsive on both mobile and desktop devices.
@@ -11,11 +8,5 @@ This project presents a website for a fictitious company to put Bootstrap featur
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-## Getting Started
-
-Clone this repository. To run you need node and npm globally on your machine.
-
-```bash
-# Clone the project
-$ git clone https://github.com/DiogoRPG/iMovi.git
-```
+![Logo da Minha Empresa](./assets/prototypes/desktop_img1.png)
+![Logo da Minha Empresa](./assets/prototypes/mobile.png)
